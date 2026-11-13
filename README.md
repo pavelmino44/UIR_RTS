@@ -52,7 +52,7 @@
 
 1. Клонируйте репозиторий и перейдите в папку проекта:
     ```bash
-    git clone git@github.com:pavelmino44/UIR_RTS.git
+    git clone https://github.com/pavelmino44/UIR_RTS.git
     cd UIR_RTS
     ```
 
